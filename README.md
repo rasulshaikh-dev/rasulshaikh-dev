@@ -1,9 +1,10 @@
+# Hi, I'm Rasul Shaikh 👋
 
-# Hi, I'm Rasul Shaikh
+## 🚀 MERN Stack Developer
 
-## MERN Stack Developer
+💻 Passionate about building full-stack web applications.
 
-### Tech Stack
+### 🛠 Tech Stack
 - JavaScript
 - React.js
 - Node.js
@@ -12,11 +13,11 @@
 - HTML
 - CSS
 
-### Tools
+### 🔧 Tools
 - Git
 - GitHub
 - Postman
 - VS Code
 
-### Connect With Me
+### 🌍 Connect With Me
 LinkedIn: https://linkedin.com/in/rasulshaikh-dev
