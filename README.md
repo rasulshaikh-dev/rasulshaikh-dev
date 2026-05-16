@@ -1,23 +1,41 @@
 # Hi, I'm Rasul Shaikh 👋
 
-## 🚀 MERN Stack Developer
+🚀 Java Full Stack Developer
 
-💻 Passionate about building full-stack web applications.
+💻 Passionate about building modern and responsive web applications.
 
-### 🛠 Tech Stack
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
 - HTML
 - CSS
+- JavaScript
+- Bootstrap
+- React.js
 
-### 🔧 Tools
+## 🔧 Tools
+
 - Git
 - GitHub
-- Postman
 - VS Code
+- Postman
+- Eclipse
+- IntelliJ IDEA
 
-### 🌍 Connect With Me
-LinkedIn: https://linkedin.com/in/rasulshaikh-dev
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- REST APIs
+- Database Management
+- Full Stack Web Development
+
+## 🌱 Goals
+
+- Build real-world full stack projects
+- Improve problem-solving skills
+- Become a professional software developer
+
+📍 Maharashtra, India
